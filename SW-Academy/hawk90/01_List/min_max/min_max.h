@@ -1,2 +1,0 @@
-#define MIN_SAMPLE 5
-#define MAX_SAMPLE 1000
