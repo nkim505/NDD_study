@@ -2,10 +2,10 @@
 
 
 # Member
-@hawk90  
-@boron-nadaedae  
-@Luann9711  
-@seoleob  
+[@hawk90](https://github.com/hawk90)  
+[@boron-nadaedae](https://github.com/boron-nadaedae)  
+[@Luann9711](https://github.com/Luann9711)  
+[@seoleob](https://github.com/seoleob) 
 
 
 # Environmnet
@@ -25,3 +25,14 @@
 > Tools  
 >   - Formatter: Black
 >   - Linter: Pyright
+
+
+#Reference
+### for Programmers
+
+### for Algorithm Learners
+
+### for CPP Developers
+>   - [CppGuidelines](https://github.com/isocpp/CppCoreGuidelines/blob/master/CppCoreGuidelines.md)
+
+### for Python Developers
